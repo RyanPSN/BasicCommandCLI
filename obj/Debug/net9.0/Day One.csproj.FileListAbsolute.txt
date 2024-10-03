@@ -1,0 +1,14 @@
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\bin\Debug\net9.0\Day One.exe
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\bin\Debug\net9.0\Day One.deps.json
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\bin\Debug\net9.0\Day One.runtimeconfig.json
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\bin\Debug\net9.0\Day One.dll
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\bin\Debug\net9.0\Day One.pdb
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\obj\Debug\net9.0\Day One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\obj\Debug\net9.0\Day One.AssemblyInfoInputs.cache
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\obj\Debug\net9.0\Day One.AssemblyInfo.cs
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\obj\Debug\net9.0\Day One.csproj.CoreCompileInputs.cache
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\obj\Debug\net9.0\Day One.dll
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\obj\Debug\net9.0\refint\Day One.dll
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\obj\Debug\net9.0\Day One.pdb
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\obj\Debug\net9.0\Day One.genruntimeconfig.cache
+C:\Users\Crawz\OneDrive\Documents\Projects\Learning-CSharp\Day One\obj\Debug\net9.0\ref\Day One.dll
