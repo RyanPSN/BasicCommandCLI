@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Crawz\\OneDrive\\Documents\\Projects\\Learning-CSharp\\Day One\\Day One.csproj",
+      "projectUniqueName": "C:\\Users\\Crawz\\OneDrive\\Documents\\Projects\\Learning-CSharp\\Day One\\BasicCommandCLI\\Day One.csproj",
       "projectName": "Day One",
-      "projectPath": "C:\\Users\\Crawz\\OneDrive\\Documents\\Projects\\Learning-CSharp\\Day One\\Day One.csproj",
+      "projectPath": "C:\\Users\\Crawz\\OneDrive\\Documents\\Projects\\Learning-CSharp\\Day One\\BasicCommandCLI\\Day One.csproj",
       "packagesPath": "C:\\Users\\Crawz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Crawz\\OneDrive\\Documents\\Projects\\Learning-CSharp\\Day One\\obj\\",
+      "outputPath": "C:\\Users\\Crawz\\OneDrive\\Documents\\Projects\\Learning-CSharp\\Day One\\BasicCommandCLI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Crawz\\AppData\\Roaming\\NuGet\\NuGet.Config",

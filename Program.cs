@@ -27,7 +27,7 @@
                 }
             }
 
-            void isOldEnough(int a)
+            static void isOldEnough(int a)
             {
                 bool ageOlder = (a <= 18);
                 if (ageOlder)
